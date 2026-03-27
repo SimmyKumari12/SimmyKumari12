@@ -43,11 +43,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/simmykumari/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin:10px;" />
   </a>
   
   <a href="mailto:ksimmy450@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin:10px;" />
   </a>
 </p>
 
