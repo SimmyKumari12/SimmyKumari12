@@ -5,11 +5,13 @@
   🚀 Exploring AI/ML & Deep Learning  
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=SimmyKumari12)
+
+
 ---
 
 ## 💡 About Me
 - I'm a sophomore at Indira Gandhi Delhi Technical University for Women pursuing B.Tech in AI & ML, currently exploring AI/ML and building full stack projects.
-- Profile Views : (https://komarev.com/ghpvc/?username=SimmyKumari12)
 
 ---
 
