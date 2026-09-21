@@ -2,10 +2,10 @@
 <h3 align="center">💻 Java & Full Stack Developer</h3>
 
 <p align="center">
-  🚀 Exploring AI/ML & Deep Learning  
+  🚀 Exploring AI/ML & Deep Learning
+  ![Profile Views](https://komarev.com/ghpvc/?username=SimmyKumari12)
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SimmyKumari12)
 
 
 ---
